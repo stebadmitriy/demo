@@ -5,7 +5,7 @@ package ru.clevertec;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello world. I am Max";
     }
 
     public static void main(String[] args) {
